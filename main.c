@@ -27,8 +27,9 @@ int main() {
     } else if (canh3 <= 0) {
         printf("do dai 1 canh tam giac khong the nho hon hoac bang 0\n");
     } else if (canh1 + canh2 == canh3) {
-        printf("Tổng hai cạnh của một tam giác luôn phải lớn hơn cạnh còn lại (Theo bất đẳng thức tam giác)")
+        printf("tong hai canh cua tam giac luon lon hon canh con lai(theo bat dang thuc tam giac)");
+        exit(0);
     }
-        printf(" nua chu vi cua tam giac la: %d\n", nuachuvitamgiac);
+    printf(" nua chu vi cua tam giac la: %d\n", nuachuvitamgiac((canh1 + canh2 + canh3) / 2));
     return 0;
 }
