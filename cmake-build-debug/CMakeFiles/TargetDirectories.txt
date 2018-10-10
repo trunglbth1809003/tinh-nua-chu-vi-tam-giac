@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/tinh chu vi hinh tam giac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Desktop/tinh chu vi hinh tam giac/cmake-build-debug/CMakeFiles/tinh_chu_vi_hinh_tam_giac.dir
+C:/Users/Admin/Desktop/tinh chu vi hinh tam giac/cmake-build-debug/CMakeFiles/edit_cache.dir
